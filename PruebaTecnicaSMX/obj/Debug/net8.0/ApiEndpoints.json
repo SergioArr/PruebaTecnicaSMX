@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "PruebaTecnicaSMX.Controllers.UsuariosController",
+    "Method": "GetUsuarios",
+    "RelativePath": "smx/Usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnicaSMX.Controllers.UsuariosController",
+    "Method": "AddUsuario",
+    "RelativePath": "smx/Usuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nuevoUsuario",
+        "Type": "PruebaTecnicaSMX.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnicaSMX.Controllers.UsuariosController",
+    "Method": "GetUsuario",
+    "RelativePath": "smx/Usuarios/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnicaSMX.Controllers.UsuariosController",
+    "Method": "UpdateUsuario",
+    "RelativePath": "smx/Usuarios/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuarioActualizado",
+        "Type": "PruebaTecnicaSMX.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnicaSMX.Controllers.UsuariosController",
+    "Method": "DeleteUsuario",
+    "RelativePath": "smx/Usuarios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnicaSMX.Controllers.UsuariosController",
+    "Method": "FiltrarUsuariosPorDominio",
+    "RelativePath": "smx/Usuarios/filtrar/{dominio}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dominio",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

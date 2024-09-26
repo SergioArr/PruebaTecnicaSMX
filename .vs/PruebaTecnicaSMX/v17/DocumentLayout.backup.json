@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|c:\\users\\sergi\\source\\repos\\pruebatecnicasmx\\pruebatecnicasmx\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|solutionrelative:pruebatecnicasmx\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|c:\\users\\sergi\\source\\repos\\pruebatecnicasmx\\pruebatecnicasmx\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|solutionrelative:pruebatecnicasmx\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|c:\\users\\sergi\\source\\repos\\pruebatecnicasmx\\pruebatecnicasmx\\helpers\\filtrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|solutionrelative:pruebatecnicasmx\\helpers\\filtrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|c:\\users\\sergi\\source\\repos\\pruebatecnicasmx\\pruebatecnicasmx\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|solutionrelative:pruebatecnicasmx\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|c:\\users\\sergi\\source\\repos\\pruebatecnicasmx\\pruebatecnicasmx\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|solutionrelative:pruebatecnicasmx\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|c:\\users\\sergi\\source\\repos\\pruebatecnicasmx\\pruebatecnicasmx\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D01F6D28-5174-452C-B541-9E69B37C6BE0}|PruebaTecnicaSMX\\PruebaTecnicaSMX.csproj|solutionrelative:pruebatecnicasmx\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FiltroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\Helpers\\FiltroUsuario.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSMX\\Helpers\\FiltroUsuario.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\Helpers\\FiltroUsuario.cs",
+              "RelativeToolTip": "PruebaTecnicaSMX\\Helpers\\FiltroUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:24:57.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSMX\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\Models\\Usuario.cs*",
+              "RelativeToolTip": "PruebaTecnicaSMX\\Models\\Usuario.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:15:36.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSMX\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "PruebaTecnicaSMX\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:14:24.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSMX\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\WeatherForecast.cs",
+              "RelativeToolTip": "PruebaTecnicaSMX\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:12:57.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnicaSMX\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PruebaTecnicaSMX\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T02:01:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PruebaTecnicaSMX\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\PruebaTecnicaSMX\\PruebaTecnicaSMX\\appsettings.Development.json",
+              "RelativeToolTip": "PruebaTecnicaSMX\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T02:01:34.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
