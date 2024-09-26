@@ -28,3 +28,10 @@ Este proyecto es una API RESTful básica construida con **ASP.NET Core 8**. La A
 
 - **.NET Core SDK 6.0** o superior.
 - **Visual Studio 2022** o **Visual Studio Code**.
+
+##  Pruebas usando Swagger
+Una vez que el proyecto está corriendo, puedes realizar pruebas de los diferentes endpoints directamente desde la interfaz de Swagger. Swagger te permite:
+
+Ver todos los endpoints disponibles de la API.
+Probar los métodos GET, POST, PUT y DELETE.
+Enviar parámetros directamente desde la interfaz gráfica y visualizar las respuestas de la API en tiempo real.
